@@ -1,0 +1,18 @@
+{
+  "version": "0.2",
+  "ignorePaths": [],
+  "dictionaryDefinitions": [],
+  "dictionaries": [],
+  "words": [
+    "barcodes",
+    "dropoff",
+    "endtemplate",
+    "idempotency",
+    "Pincode",
+    "pubspec",
+    "Struct",
+    "xlarge"
+  ],
+  "ignoreWords": [],
+  "import": []
+}
